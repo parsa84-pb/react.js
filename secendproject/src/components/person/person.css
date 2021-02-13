@@ -1,0 +1,10 @@
+.person {
+    background-color: rgb(211, 210, 210);
+    margin: 1em auto;
+    width: 40%;
+    border-radius: 10px;
+}
+input {
+    padding: 10px;
+    border-radius: 10px;
+}
